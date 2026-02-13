@@ -1,4 +1,4 @@
-# allahrakha
+
 # 💫 About Me
 🔭 I’m currently working as a Senior Full Stack Developer building scalable web platforms and cross-platform mobile applications using Flutter.
 
