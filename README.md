@@ -19,10 +19,10 @@
 
 - Facebook  
 - StackOverflow  
-- LinkedIn  
+[- LinkedIn ](https://www.linkedin.com/in/allah-rakha-software-eng/) 
 - Discord  
 - WhatsApp  
-- Gmail  
+- Gmail  (jakegary988@gmail.com)
 - Portfolio / Linktree  
 
 ---
